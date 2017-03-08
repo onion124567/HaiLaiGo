@@ -1,4 +1,4 @@
-package com.hailaigo;
+package com.haitago;
 
 import org.junit.Test;
 

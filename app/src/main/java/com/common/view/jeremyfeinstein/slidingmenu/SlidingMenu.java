@@ -25,7 +25,7 @@ import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 
 import com.common.view.jeremyfeinstein.slidingmenu.CustomViewAbove.OnPageChangeListener;
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.lang.reflect.Method;
 

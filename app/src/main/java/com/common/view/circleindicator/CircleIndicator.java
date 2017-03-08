@@ -14,7 +14,7 @@ import android.util.AttributeSet;
 import android.view.View;
 
 import com.common.view.circleindicator.holder.ShapeHolder;
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.util.ArrayList;
 import java.util.List;

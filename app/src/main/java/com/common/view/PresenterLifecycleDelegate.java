@@ -4,9 +4,9 @@ import android.os.Bundle;
 import android.os.Parcelable;
 import android.support.annotation.Nullable;
 
-import com.hailaigo.factory.PresenterFactory;
-import com.hailaigo.factory.PresenterStorage;
-import com.hailaigo.presenter.Presenter;
+import com.haitago.factory.PresenterFactory;
+import com.haitago.factory.PresenterStorage;
+import com.haitago.presenter.Presenter;
 
 
 /**

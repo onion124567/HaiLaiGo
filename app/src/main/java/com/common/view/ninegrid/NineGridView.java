@@ -2,19 +2,17 @@ package com.common.view.ninegrid;
 
 import android.content.Context;
 import android.content.res.TypedArray;
-import android.graphics.Bitmap;
 import android.support.annotation.NonNull;
 import android.util.AttributeSet;
 import android.util.DisplayMetrics;
-import android.util.Log;
 import android.util.TypedValue;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.hailaigo.R;
-import com.hailaigo.utils.Config;
-import com.hailaigo.utils.ScreenUtils;
+import com.haitago.R;
+import com.haitago.utils.Config;
+import com.haitago.utils.ScreenUtils;
 
 import java.util.ArrayList;
 import java.util.List;

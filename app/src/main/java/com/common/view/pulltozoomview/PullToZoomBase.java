@@ -13,7 +13,7 @@ import android.view.ViewConfiguration;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 
 /**

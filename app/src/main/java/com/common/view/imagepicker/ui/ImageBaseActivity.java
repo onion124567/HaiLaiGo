@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.hailaigo.R;
+import com.haitago.R;
 import com.common.view.imagepicker.view.SystemBarTintManager;
 
 /**

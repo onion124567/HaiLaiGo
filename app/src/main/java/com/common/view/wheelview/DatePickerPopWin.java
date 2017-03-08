@@ -15,12 +15,11 @@ import android.view.animation.AccelerateInterpolator;
 import android.view.animation.Animation;
 import android.view.animation.Animation.AnimationListener;
 import android.view.animation.TranslateAnimation;
-import android.widget.Button;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

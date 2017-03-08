@@ -16,7 +16,7 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.common.view.ninegrid.ImageInfo;
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.util.List;
 

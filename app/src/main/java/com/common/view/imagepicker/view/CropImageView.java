@@ -24,7 +24,7 @@ import android.util.TypedValue;
 import android.view.MotionEvent;
 import android.widget.ImageView;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.io.File;
 import java.io.IOException;

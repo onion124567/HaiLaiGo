@@ -1,6 +1,5 @@
 package com.common.view.imagepicker;
 
-import android.content.ContentResolver;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.provider.MediaStore;
@@ -8,11 +7,10 @@ import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.LoaderManager;
 import android.support.v4.content.CursorLoader;
 import android.support.v4.content.Loader;
-import android.util.Log;
 
 import com.common.view.imagepicker.bean.ImageFolder;
 import com.common.view.imagepicker.bean.ImageItem;
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.io.File;
 import java.util.ArrayList;

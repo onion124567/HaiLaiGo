@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 
 public class LoadMoreGroupRecyclerView extends RelativeLayout implements LoadMoreUIHandler {

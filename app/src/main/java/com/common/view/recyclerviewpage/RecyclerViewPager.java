@@ -15,8 +15,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewTreeObserver;
 
-import com.hailaigo.BuildConfig;
-import com.hailaigo.R;
+import com.haitago.BuildConfig;
+import com.haitago.R;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

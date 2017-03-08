@@ -15,7 +15,7 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.util.ArrayList;
 import java.util.List;

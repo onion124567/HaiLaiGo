@@ -1,7 +1,6 @@
 package com.common.view.recyclerview.loadmore;
 
 import android.content.Context;
-import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -10,8 +9,8 @@ import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.hailaigo.R;
-import com.hailaigo.utils.ScreenUtils;
+import com.haitago.R;
+import com.haitago.utils.ScreenUtils;
 
 
 public class LoadMoreDefaultFooterRecyclerView extends RelativeLayout implements LoadMoreUIHandler {

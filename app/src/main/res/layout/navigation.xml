@@ -20,9 +20,6 @@
        <include layout="@layout/main_menu"
            android:id="@+id/mainNavigation"
            />
-        <include layout="@layout/main_menu"
-            android:id="@+id/messageNavigation"
-            />
 
 
         <include layout="@layout/main_menu"

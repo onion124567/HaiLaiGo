@@ -3,7 +3,7 @@ package com.common.view.tjerkw.slideexpandable.library;
 import android.view.View;
 import android.widget.ListAdapter;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 /**
  * ListAdapter that adds sliding functionality to a list.

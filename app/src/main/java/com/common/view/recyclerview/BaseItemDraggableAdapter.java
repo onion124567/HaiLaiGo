@@ -11,7 +11,7 @@ import android.view.View;
 
 import com.common.view.recyclerview.listener.OnItemDragListener;
 import com.common.view.recyclerview.listener.OnItemSwipeListener;
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.util.Collections;
 import java.util.List;

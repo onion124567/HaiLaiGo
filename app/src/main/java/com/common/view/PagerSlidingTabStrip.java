@@ -23,7 +23,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.util.Locale;
 

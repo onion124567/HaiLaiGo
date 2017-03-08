@@ -2,13 +2,10 @@ package com.common.view.imagepicker.ui;
 
 import android.os.Bundle;
 import android.view.View;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.common.view.imagepicker.ImagePicker;
-import com.nostra13.universalimageloader.core.ImageLoader;
-import com.hailaigo.R;
-import com.common.view.imagepicker.Utils;
+import com.haitago.R;
 import com.common.view.imagepicker.adapter.ImagePageAdapter;
 import com.common.view.imagepicker.bean.ImageItem;
 import com.common.view.imagepicker.view.ViewPagerFixed;

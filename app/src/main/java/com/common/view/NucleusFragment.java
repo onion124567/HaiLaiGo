@@ -3,9 +3,9 @@ package com.common.view;
 import android.app.Fragment;
 import android.os.Bundle;
 
-import com.hailaigo.factory.PresenterFactory;
-import com.hailaigo.factory.ReflectionPresenterFactory;
-import com.hailaigo.presenter.Presenter;
+import com.haitago.factory.PresenterFactory;
+import com.haitago.factory.ReflectionPresenterFactory;
+import com.haitago.presenter.Presenter;
 
 
 /**

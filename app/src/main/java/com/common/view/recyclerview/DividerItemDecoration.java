@@ -2,7 +2,6 @@ package com.common.view.recyclerview;
 
 import android.content.Context;
 import android.graphics.Canvas;
-import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Rect;
 import android.support.v7.widget.LinearLayoutManager;
@@ -10,7 +9,7 @@ import android.support.v7.widget.RecyclerView;
 import android.util.TypedValue;
 import android.view.View;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 /**
  * Created by onion on 2016/7/29.

@@ -20,17 +20,15 @@ import android.widget.PopupWindow;
 
 import com.common.view.imagepicker.ImageDataSource;
 import com.common.view.imagepicker.ImagePicker;
-import com.nostra13.universalimageloader.core.ImageLoader;
-import com.hailaigo.R;
+import com.haitago.R;
 import com.common.view.imagepicker.Utils;
 import com.common.view.imagepicker.adapter.ImageFolderAdapter;
 import com.common.view.imagepicker.adapter.ImageGridAdapter;
 import com.common.view.imagepicker.bean.ImageFolder;
 import com.common.view.imagepicker.bean.ImageItem;
-import com.hailaigo.utils.FileUtils;
-import com.hailaigo.utils.ImageUtils;
+import com.haitago.utils.FileUtils;
+import com.haitago.utils.ImageUtils;
 
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 

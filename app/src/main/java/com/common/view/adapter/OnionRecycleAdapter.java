@@ -6,10 +6,10 @@ import com.common.view.recyclerview.BaseQuickAdapter;
 import com.common.view.recyclerview.BaseViewHolder;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
-import com.hailaigo.R;
-import com.hailaigo.business.baseandcommon.TApplication;
-import com.hailaigo.factory.annotation.ImageField;
-import com.hailaigo.factory.annotation.TextField;
+import com.haitago.R;
+import com.haitago.business.baseandcommon.TApplication;
+import com.haitago.factory.annotation.ImageField;
+import com.haitago.factory.annotation.TextField;
 
 import java.lang.reflect.Field;
 import java.util.List;

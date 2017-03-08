@@ -8,9 +8,9 @@ import android.os.Parcelable;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import com.hailaigo.factory.PresenterFactory;
-import com.hailaigo.factory.ReflectionPresenterFactory;
-import com.hailaigo.presenter.Presenter;
+import com.haitago.factory.PresenterFactory;
+import com.haitago.factory.ReflectionPresenterFactory;
+import com.haitago.presenter.Presenter;
 
 /**
  * This view is an example of how a view should control it's presenter.

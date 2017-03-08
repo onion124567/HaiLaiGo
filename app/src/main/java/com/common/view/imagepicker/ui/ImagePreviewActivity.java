@@ -1,7 +1,6 @@
 package com.common.view.imagepicker.ui;
 
 import android.content.Intent;
-import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.text.format.Formatter;
@@ -12,7 +11,7 @@ import android.widget.CompoundButton;
 import android.widget.Toast;
 
 import com.common.view.imagepicker.ImagePicker;
-import com.hailaigo.R;
+import com.haitago.R;
 import com.common.view.imagepicker.bean.ImageItem;
 import com.common.view.imagepicker.view.SuperCheckBox;
 

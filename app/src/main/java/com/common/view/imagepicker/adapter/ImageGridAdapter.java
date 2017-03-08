@@ -2,10 +2,6 @@ package com.common.view.imagepicker.adapter;
 
 import android.app.Activity;
 import android.content.ContentResolver;
-import android.graphics.Bitmap;
-import android.provider.MediaStore;
-import android.text.TextUtils;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,7 +10,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 
 import com.common.view.imagepicker.ImagePicker;
-import com.hailaigo.R;
+import com.haitago.R;
 import com.common.view.imagepicker.Utils;
 import com.common.view.imagepicker.bean.ImageItem;
 import com.common.view.imagepicker.view.SuperCheckBox;

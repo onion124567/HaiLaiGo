@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup.LayoutParams;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 
 public class SlidingActivityHelper {

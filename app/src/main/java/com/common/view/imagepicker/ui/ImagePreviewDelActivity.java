@@ -2,7 +2,6 @@ package com.common.view.imagepicker.ui;
 
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AlertDialog;
@@ -11,7 +10,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 
 import com.common.view.imagepicker.ImagePicker;
-import com.hailaigo.R;
+import com.haitago.R;
 
 /**
  * Created by onion on 2016/8/2.

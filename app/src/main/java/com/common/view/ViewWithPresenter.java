@@ -1,8 +1,8 @@
 package com.common.view;
 
 
-import com.hailaigo.factory.PresenterFactory;
-import com.hailaigo.presenter.Presenter;
+import com.haitago.factory.PresenterFactory;
+import com.haitago.presenter.Presenter;
 
 public interface ViewWithPresenter<P extends Presenter> {
 

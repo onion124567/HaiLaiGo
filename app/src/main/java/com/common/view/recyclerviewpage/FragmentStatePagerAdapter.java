@@ -13,7 +13,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 import java.util.HashSet;
 import java.util.Random;

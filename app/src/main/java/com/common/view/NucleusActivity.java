@@ -4,9 +4,9 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 
-import com.hailaigo.factory.PresenterFactory;
-import com.hailaigo.factory.ReflectionPresenterFactory;
-import com.hailaigo.presenter.Presenter;
+import com.haitago.factory.PresenterFactory;
+import com.haitago.factory.ReflectionPresenterFactory;
+import com.haitago.presenter.Presenter;
 
 
 /**

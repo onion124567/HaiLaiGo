@@ -13,7 +13,7 @@ import android.widget.LinearLayout.LayoutParams;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 
 @SuppressLint("ViewConstructor")

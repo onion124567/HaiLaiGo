@@ -6,7 +6,7 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 import android.view.View;
 
 import com.common.view.recyclerview.BaseItemDraggableAdapter;
-import com.hailaigo.R;
+import com.haitago.R;
 
 
 /**

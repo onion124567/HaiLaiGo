@@ -36,7 +36,7 @@ import android.view.ViewConfiguration;
 
 
 import com.common.view.recyclerviewpage.RecyclerViewPager;
-import com.hailaigo.R;
+import com.haitago.R;
 
 import static android.graphics.Paint.ANTI_ALIAS_FLAG;
 import static android.widget.LinearLayout.HORIZONTAL;

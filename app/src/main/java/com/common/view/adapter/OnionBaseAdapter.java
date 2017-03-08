@@ -10,9 +10,9 @@ import android.widget.TextView;
 
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
-import com.hailaigo.R;
-import com.hailaigo.factory.annotation.ImageField;
-import com.hailaigo.factory.annotation.TextField;
+import com.haitago.R;
+import com.haitago.factory.annotation.ImageField;
+import com.haitago.factory.annotation.TextField;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

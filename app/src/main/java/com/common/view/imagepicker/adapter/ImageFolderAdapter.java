@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.common.view.imagepicker.ImagePicker;
-import com.hailaigo.R;
+import com.haitago.R;
 import com.common.view.imagepicker.Utils;
 import com.common.view.imagepicker.bean.ImageFolder;
 

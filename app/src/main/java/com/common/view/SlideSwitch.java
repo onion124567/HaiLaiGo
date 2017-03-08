@@ -35,7 +35,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.animation.AccelerateDecelerateInterpolator;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 
 public class SlideSwitch extends View {

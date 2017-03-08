@@ -12,7 +12,7 @@ import android.os.Build;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-import com.hailaigo.R;
+import com.haitago.R;
 
 
 public class ShadowLayout extends FrameLayout {
