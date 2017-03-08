@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:background="@color/ob_color_white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <ImageView
+            android:id="@+id/iv_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="30dp"
+            android:src="@mipmap/siji_pic_logo" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="49dp"
+            android:layout_marginTop="30dp">
+
+            <ImageView
+                android:id="@+id/img_icon_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:src="@mipmap/login_phone" />
+
+            <ImageView
+                android:id="@+id/img_clean_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:padding="5dp"
+                android:src="@mipmap/delete_icon"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/edit_name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toLeftOf="@id/img_clean_name"
+                android:layout_toRightOf="@id/img_icon_name"
+                android:background="@null"
+                android:hint="请输入手机号"
+                android:singleLine="true"
+                android:textColor="@color/text_3"
+                android:textColorHint="@color/text_c"
+                android:textSize="@dimen/text_three_two" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.7dp"
+            android:background="@color/line" />
+        <!-- <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:text="初始密码为身份证8位生日密码如19900101"
+             android:textColor="@color/font_red"
+             android:textSize="@dimen/textsmallfonts"
+             android:layout_marginLeft="30dp"
+             android:layout_marginTop="10dp"
+             />-->
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="49dp">
+
+            <ImageView
+                android:id="@+id/img_icon_pwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="5dp"
+                android:src="@mipmap/login_pw" />
+
+            <EditText
+                android:id="@+id/et_pwd"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/img_icon_pwd"
+                android:background="@null"
+                android:hint="验证码"
+                android:inputType="textPassword"
+                android:singleLine="true"
+                android:textColor="@color/text_3"
+                android:textColorHint="@color/text_c"
+                android:textSize="@dimen/text_three_two" />
+            <ImageView
+                android:id="@+id/img_clean_pwd"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="10dp"
+                android:layout_toLeftOf="@id/et_pwd"
+                android:padding="5dp"
+                android:src="@mipmap/delete_icon"
+                android:visibility="gone" />
+        </RelativeLayout>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.7dp"
+            android:background="@color/line" />
+
+        <TextView
+            android:id="@+id/btn_login"
+            android:layout_width="fill_parent"
+            android:layout_height="49dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/btn_green_selector"
+            android:text="登录"
+            android:gravity="center"
+            android:textColor="@color/ob_color_white"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+</LinearLayout>

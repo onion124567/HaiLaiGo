@@ -10,7 +10,6 @@ import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
-import android.support.annotation.NonNull;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -134,7 +133,7 @@ public abstract class BaseActivity<P extends Presenter> extends AppCompatActivit
     }
 
     @Override
-    protected void onSaveInstanceState(@NonNull Bundle outState) {
+    protected void onSaveInstanceState( Bundle outState) {
         super.onSaveInstanceState(outState);
         outState.putBundle(PRESENTER_STATE_KEY, presenterDelegate.onSaveInstanceState());
     }

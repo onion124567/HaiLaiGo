@@ -107,7 +107,7 @@ public class MainActivity extends SlidingFragmentActivity implements SlidingActi
         };
         fragments = new Fragment[]{
                 new ReceiveOrderFragment(),
-                new TestFragment(),
+                new OrderListFragment(),
                 new TestFragment()
         };
         for (int i = 0; i < mTabs.length; i++) {

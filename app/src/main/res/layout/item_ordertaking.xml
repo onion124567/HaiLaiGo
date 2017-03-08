@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/ob_color_white"
+    android:padding="16dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="09:00 出发1人"
+        android:textColor="@color/text_3"
+        android:textSize="@dimen/text_three_six" />
+
+    <TextView
+        android:id="@+id/tv_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_time"
+        android:layout_marginTop="16dp"
+        android:drawableLeft="@mipmap/sijie_jiedan_start"
+        android:drawablePadding="10dp"
+        android:text="临䜣车站" />
+    <ImageView
+        android:id="@+id/iv_arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_start"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:src="@mipmap/sijie_jiedan_arrow_down"/>
+    <TextView
+        android:id="@+id/tv_end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iv_arrow"
+        android:drawableLeft="@mipmap/sijie_jiedan_reach"
+        android:drawablePadding="10dp"
+        android:text="临䜣车站" />
+
+    <TextView
+        android:id="@+id/tv_money"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¥85"
+        android:layout_alignParentRight="true"
+        android:textColor="@color/text_money"
+        android:textSize="25sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shap_btn_blue"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:layout_below="@id/tv_money"
+        android:layout_marginTop="22dp"
+        android:id="@+id/btn_taking"
+        android:layout_alignParentRight="true"
+        android:text="接单"
+        android:textColor="@color/ob_color_white"
+        android:textSize="@dimen/text_two_eight"
+        />
+</RelativeLayout>

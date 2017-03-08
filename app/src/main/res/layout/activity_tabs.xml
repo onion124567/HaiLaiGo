@@ -16,20 +16,19 @@
             android:id="@+id/tabs"
             android:layout_width="match_parent"
             android:layout_height="33dp"
-            android:layout_marginBottom="5dp"
             app:pstsIndicatorColor="@color/main_color"
             app:pstsScrollOffset="1dp"
             app:pstsTabPaddingLeftRight="19dp"
             app:selectedTabTextColor="@color/main_color"
-            app:zmsTabTextColor="@color/text_6"
+            app:zmsTabTextColor="@color/text_3"
             app:zmsTabTextSize="@dimen/text_three_two"
             app:pstsDividerColor="@color/transparent"
-            app:pstsIndicatorHeight="1dp"
+            app:pstsIndicatorHeight="3dp"
             app:pstsShouldExpand="true"
             app:pstsTextAllCaps="true"
             app:pstsTabBackground="@drawable/background_tab"
             app:pstsUnderlineColor="@color/line"
-            app:lineOffset="49dp"
+            app:lineOffset="32dp"
             app:pstsUnderlineHeight="1dp" />
     </LinearLayout>
 

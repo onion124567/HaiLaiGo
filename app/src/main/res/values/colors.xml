@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#2A2A32</color>
+    <color name="colorPrimaryDark">#2A2A32</color>
     <color name="colorAccent">#FF4081</color>
 
     <color name="theme_body">#cc22292c</color>
@@ -37,7 +37,7 @@
 
     <color name="transparent">#00000000</color>
 
-    <color name="main_color" >#48c55c</color>
+    <color name="main_color" >#099FDE</color>
     <color name="secondary_color">#fc8724</color>
     <color name="normal_background_color">#f5f6f5</color>
 
@@ -54,8 +54,11 @@
     <color name="darkgrey"> #999999</color>
     <color name="white"> #FFFFFF</color>
     <color name="red"> #FF0000</color>
-    <color name="blue">#4c90f9</color>
+    <color name="blue">#37C4FF</color>
     <color name="gary">#898989</color>
     <color name="gray_lite">#c5c5c5</color>
     <color name="phone_bg">#f6f6f6</color>
+
+    <color name="headtop_bg">#2A2A32</color>
+    <color name="text_money">#FFA64C</color>
 </resources>

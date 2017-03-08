@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+   <TextView
+       android:id="@+id/tv_title"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:textSize="28sp"
+       android:textColor="@color/text_3"
+       android:text="添加路线"/>
+    <TextView
+        android:id="@+id/tv_second"
+        android:layout_marginTop="14dp"
+        android:textSize="@dimen/text_three_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/text_6"
+        android:text="将路线添加到首页"/>
+</LinearLayout>

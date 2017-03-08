@@ -37,7 +37,8 @@ public class PayActivity extends Activity {
 				payBtn.setEnabled(false);
 				Toast.makeText(PayActivity.this, "获取订单中...", Toast.LENGTH_SHORT).show();
 				try{
-					byte[] buf = Util.httpGet(url);
+//					byte[] buf = Util.httpGet(url);
+					byte[] buf = null;
 					if (buf != null && buf.length > 0) {
 						String content = new String(buf);
 						Log.e("get server pay params:",content);
